@@ -1,2 +1,2 @@
-# my-learnings
-Sharing things I learnt
+# our-learnings
+Sharing things we learnt
